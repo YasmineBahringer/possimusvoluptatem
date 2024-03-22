@@ -1,0 +1,14 @@
+ignores: [
+  "decomment",
+  "@babel/cli",
+  "@babel/register",
+  '@hot-loader/react-dom',
+  "core-js",
+  "font-awesome",
+  "mongodb-client-encryption",
+  "mongodb-schema",
+  "resolve",
+  "webpack-bundle-analyzer",
+  "webpack-cli",
+  "mongodb-compass"
+]
